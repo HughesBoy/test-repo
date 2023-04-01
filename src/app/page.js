@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <div>
-      homepage
+      homepage + component folder
     </div>
   )
 }
